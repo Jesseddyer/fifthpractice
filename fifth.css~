@@ -1,0 +1,91 @@
+body {
+    background-color: lightblue;
+    background-opacity: .5;
+    margin: 95px;
+    padding: 0px;
+
+}
+
+#body {
+width: 100%;
+height: 100%;
+}
+
+#contain {
+  background-size: contain;
+}
+#cover {
+  background-size: cover;
+}
+
+
+.header {
+    background-image: url("http://cdn.wallpapersafari.com/13/11/8M2a6Y.jpg");
+    Background-size: cover;
+    background-repeat: no-repeat;
+    width: 1980px;
+    height: 960px;
+    position: absolute;
+    top: 0;
+    
+    
+    
+    
+}
+
+h1 {
+    font-family: impact;
+    font-size: 72px;
+    font-color: black;
+    text-align: center;
+    opacity: 0.5;
+    position: relative;
+    top: 80%;
+    left: 25%;
+    
+}
+
+h2 {
+    text-align: center;
+    font-size: 48px;
+    font-color: #000000;
+    font-family: impact;
+    float: Left;
+}
+
+.button {
+    background-color: gray; 
+    color: black;
+    padding: 0px;
+    text-decoration: none;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 15px;
+    opacity: 0.5;
+    margin: 15px;
+    margin-right: 15px;
+    align: center;
+}
+
+h2:hover {
+    background-color: gray; 
+    text-decoration: none;
+    display: inline-block;
+    font-size: 48px;
+    opacity: 0.25;
+    padding: 0px;
+    
+}
+
+#PopAbout {
+    position: center;
+    background-color: black;
+    opacity: .5;
+    width: 750px:
+    height: 500px;
+}
+    
+    
+    

@@ -1,0 +1,19 @@
+<DOCTYPE! html>
+  <html>
+    <head>
+      <meta charset="UTF-8">
+      <link href="fifth.css" style="text/css" rel="stylesheet">
+    </head>
+
+    <div class="header" id="contain" id="cover" >
+      
+      <h1>Snow Days</h1>
+        <div class="button">
+     <h2> Home </h2>
+     <h2> About</h2>
+     <h2> Email</h2>
+	</div>
+    </div>
+
+
+</html>
